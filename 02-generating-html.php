@@ -7,19 +7,20 @@
     <title>Document</title>
     <style>
         body {
+            font-family: sans-serif;
             background-color: #333333;
             text-align: center;
             color: #f4f4f4;
         }
 
         .dice-low {
-            color: red;
+            color: oklch(57.7% 0.245 27.325);
         }
         .dice-average {
             color: #f4f4f4;
         }
         .dice-high {
-            color: green;
+            color: oklch(62.7% 0.194 149.214);
         }
     </style>
 </head>
